@@ -24,6 +24,11 @@ h6 {
   padding: 0 5%;
 }
 
+.portfolio-site {
+  width: 387px;
+  height: 315px;
+}
+
 h1 {
   font-size: 40px;
   color: #f5a623;
@@ -58,7 +63,6 @@ h3,
 h4,
 h5 {
   padding: 10px 5%;
-
 }
 
 
@@ -130,6 +134,10 @@ a {
 /* TODO: Replace with image later */
 #header {
   background-color: #484848;
+}
+
+#projects img {
+    width: 200px;
 }
 
 .flex-box {
