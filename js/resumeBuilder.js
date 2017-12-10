@@ -4,7 +4,7 @@ var bio = {
     "contacts": {
         "email": "basantsingh618@gmail.com",
         "github": "basant1",
-        "twitter": "@basant238",
+        "twitter": "@1basantsingh",
         "location": "Sarasota"
     },
     "welcomeMessage": "Hi! My name is Basant Singh and I'm a software engineering student in Sarasota, FL.",
